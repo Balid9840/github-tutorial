@@ -16,7 +16,7 @@ So you made it this far? Not bad, but things are probably gonna get more complex
 
 ### ``Codes``  
 
-``git init`` - When you start up the system, you can either cd (Check the code snippet cd for more info) into your directory. This code is used to give the directory the function of master, which is basically empowering it. When you used ``git init`` the directory should say ``~/workspace/directory_name (master)``. This means the code worked and you want to make sure you intialized the right directory because there isn't a git uninit. 
+``git init`` - When you start up the system, you can either cd (Check the code snippet cd for more info) into your directory or stay in workspace. This code is used to give the directory the function of master, which is basically empowering it. When you used ``git init`` the directory should say ``~/workspace/directory_name (master)``. This means the code worked and you want to make sure you intialized the right directory because there isn't a git uninit. 
 
 ``cd`` - This is one of the more simplier pieces of code, it simply enters the directory. It's used often after creating a directory for the first time and often used to avoid initializing the wrong directory. This also means you should remember to do this piece of code to prevent any accidents. Basically make it a habit and never forget it.  
 
